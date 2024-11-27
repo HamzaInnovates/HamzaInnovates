@@ -2,7 +2,7 @@
 ## Python Developer
 📍 Wah Cantt, Pakistan
 📧 hamzamunwar088@gmail.com | 📞 +92 302 5518686
-LinkedIn (https://www.linkedin.com/in/hamza-munawar-382588281/)
+| LinkedIn (https://www.linkedin.com/in/hamza-munawar-382588281/)
 
 👋 About Me
 🔭 Back-End Developer with 3+ years of experience in Python, specializing in building scalable and efficient applications.
