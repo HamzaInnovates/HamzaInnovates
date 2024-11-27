@@ -1,5 +1,5 @@
-# Hamza Munawar
- ## Python Developer
+#Hamza Munawar
+##Python Developer
 📍 Wah Cantt, Pakistan
 📧 hamzamunwar088@gmail.com | 📞 +92 302 5518686
 LinkedIn | GitHub
@@ -14,3 +14,4 @@ LinkedIn | GitHub
 Languages: Python, Go, C#, C++, SQL, HTML, CSS, JavaScript
 Frameworks & Libraries: Flask, Django, Gin, Echo, REST APIs, scikit-learn, OpenCV
 Databases: MySQL, SQL Server, Firebase, Postgres
+
