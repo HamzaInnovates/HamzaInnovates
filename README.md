@@ -1,5 +1,5 @@
-#Hamza Munawar
-##Python Developer
+# Hamza Munawar
+## Python Developer
 📍 Wah Cantt, Pakistan
 📧 hamzamunwar088@gmail.com | 📞 +92 302 5518686
 LinkedIn | GitHub
